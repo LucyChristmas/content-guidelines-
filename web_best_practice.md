@@ -2,7 +2,7 @@
 
 ## FOUNDATIONAL WEB WRITING PRINCIPLES
 
-### Key Difference: Web vs Print
+### Key difference: Web vs Print
 **Web pages should be ~50% the length of similar print documents**
 
 **Critical statistic:** Users only read about 18% of content on web pages
