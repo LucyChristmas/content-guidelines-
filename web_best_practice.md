@@ -430,6 +430,3 @@ Ensures language doesn't exclude based on:
 - Plain Language Act 2022 (mandatory for public service agencies/crown agents)
 - NZ Government Web Accessibility Standard (language change indication)
 
----
-
-## END OF WEB BEST PRACTICE GUIDE
