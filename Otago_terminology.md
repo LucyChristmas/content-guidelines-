@@ -1,11 +1,10 @@
-# University of Otago Writing Style & Terminology Guide
-## Reorganized for Clarity and AI Usage
+# University of Otago writing style and terminology guide
 
 ---
 
-## 1. FOUNDATIONAL SPELLING & GRAMMAR STANDARDS
+## 1. FOUNDATIONAL SPELLING AND GRAMMAR STANDARDS
 
-### Primary Language Standard
+### Primary language standard
 **British English spelling** is mandatory (not American English)
 - colour (not color)
 - analyse (not analyze)
@@ -49,7 +48,7 @@ The -er ending is preferred over -or, with one exception:
 
 **Web writing:** Numerals are preferred as they are easier to read on screen
 
-### Weights and Measures
+### Weights and measures
 **No space** between number and measure, except computer memory
 
 **Area:**
@@ -58,7 +57,7 @@ The -er ending is preferred over -or, with one exception:
 - cubic centimetre (cm³), cubic metre (m³)
 - Example: Over 31,000ha around Dunedin
 
-**Computer Memory (with space):**
+**Computer memory (with space):**
 - kilobyte (KB), megabyte (MB), gigabyte (GB), terabyte (TB)
 - Example: The new computer had just 40 GB of memory
 
@@ -108,7 +107,7 @@ Spell out **first through ninth**, then **10th, 11th**, etc.
 
 ## 3. DATES & TIME
 
-### Date Format
+### Date format
 **Standard:** date month year (no ordinals)
 **Include day of week whenever possible**
 
@@ -159,17 +158,17 @@ Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec
 **Not capitalised**
 Use **autumn** (not fall)
 
-### Events and Holidays
+### Events and holidays
 **Use upper case** for public holidays and major events:
 - Christmas Day, Christmas Eve
 - New Year's Day, New Year's Eve
 
 ---
 
-## 4. CAPITALIZATION RULES
+## 4. CAPITALISATION RULES
 
-### General Principles
-**Capitalize:**
+### General principles
+**Capitalise:**
 - Proper nouns
 - Official titles when used with a name
 - Specific departments, programs, degrees when referring to the specific entity
@@ -180,14 +179,14 @@ Use **autumn** (not fall)
 - Office holders referred to by office alone
 - Generic references to subjects, degrees, or departments
 
-### Job Titles
-**Capitalize only when used as someone's title:**
+### Job titles
+**Capitalise only when used as someone's title:**
 - ✅ Professor Jane Redmond would be the night's big winner
 - ✅ The professors realized the students were nervous
 - ✅ The Director of Resources took his place
 - ❌ The Directors were first to be notified
 
-### People and Titles
+### People and titles
 **Upper case** for ranks and titles when written with a name
 **Lower case** when on their own
 - ✅ Queen Elizabeth was set to attend
@@ -195,7 +194,7 @@ Use **autumn** (not fall)
 - ✅ The prime minister met his wife at Otago
 - ✅ In this country, the prime minister is elected...
 
-### Departments and Subjects
+### Departments and subjects
 **Use capitals for:**
 - Department name: Department of History
 - Subject name when referring to University study: He majored in Microbiology
@@ -207,8 +206,8 @@ Use **autumn** (not fall)
 - Generic references: If you have a mathematics background from school
 - General careers: Are you interested in a career in social work?
 
-### Organizations
-**Capitalize** when full name is used:
+### Organisations
+**Capitalise** when full name is used:
 - Ministry of Education
 - Department of Pathology
 - Treaty of Waitangi
@@ -216,7 +215,7 @@ Use **autumn** (not fall)
 **Lower case** when referring generally:
 - The new health act was finally released
 
-### Places and Geography
+### Places and geography
 **Use upper case** for definite geographical places:
 - New Zealand
 - the South Island
@@ -234,17 +233,17 @@ Use **autumn** (not fall)
 **Black** - capital B when referring to groups in racial, ethnic or cultural terms
 **Covid-19** - Upper case C, lower case after, hyphenated to 19
 **coalition Government** - lower case c, upper case G
-**Internet** - Capitalize
+**Internet** - Capitalise
 **web** - Lowercase unless starting sentence
 **Year 13** - Capital Y and numeral for school years (not year nine)
-**Deaf/deaf** - Capitalize when referring to the Deaf community, lowercase when referring to being deaf in general
-**Earth/earth** - Capitalize when referring to the planet, lowercase for ground/soil
+**Deaf/deaf** - Capitalise when referring to the Deaf community, lowercase when referring to being deaf in general
+**Earth/earth** - Capitalise when referring to the planet, lowercase for ground/soil
 
 ---
 
 ## 5. PUNCTUATION
 
-### Full Stop (Period)
+### Full stop (Period)
 - Use at end of sentences
 - Use after last item in bulleted list that forms complete sentence
 - Insert only **one space** after a full stop
@@ -264,7 +263,7 @@ Use **only when necessary** to improve clarity and avoid confusion
 - ✅ WITHOUT: Highlights included the President, an ancient yoga expert and a pen collector
 - (Use WITH if the President being an expert would cause confusion)
 
-**Web writing:** Commas affect screen reader vocalization for accessibility
+**Web writing:** Commas affect screen reader vocalisation for accessibility
 
 ### Colon :
 **Use to:**
@@ -412,7 +411,7 @@ Use as substitute for "or" with **no space** on either side
 
 ## 7. HYPHENATED vs NOT HYPHENATED
 
-### Always Hyphenated
+### Always hyphenated
 - 100-level, 200-level, 300-level
 - 24-hour
 - 126-point course
@@ -465,7 +464,7 @@ Use as substitute for "or" with **no space** on either side
 - wellbeing
 - worldwide (but: the world wide web)
 
-### Context-Dependent
+### Context-dependent
 **full-time / part-time / on-campus / off-campus**
 - Hyphenated when adjective: She's a part-time student / on-campus activity
 - Not hyphenated when adverb: She's studying part time / The function was off campus
@@ -474,7 +473,7 @@ Use as substitute for "or" with **no space** on either side
 
 ## 8. ONE WORD vs TWO WORDS
 
-### One Word
+### One word
 - childcare
 - corequisite
 - coursework
@@ -489,7 +488,7 @@ Use as substitute for "or" with **no space** on either side
 - videoconference
 - website
 
-### Two Words
+### Two words
 - cross credit (no hyphen)
 - health care (when noun)
 - per cent (spell out, two words)
@@ -498,7 +497,7 @@ Use as substitute for "or" with **no space** on either side
 
 ## 9. SPECIFIC WORD CHOICES & COMMON MISSPELLINGS
 
-### Correct Spellings
+### Correct spellings
 - **adviser** (not advisor) - note -er ending
 - **aegrotat** - note the 'e'
 - **ageing** - note the 'e'
@@ -525,7 +524,7 @@ Use as substitute for "or" with **no space** on either side
 - **TB** - abbreviation for tuberculosis
 - **while** (not whilst)
 
-### Prefer Over Alternatives
+### Prefer over alternatives
 - **autumn** (not fall)
 - **residential colleges** (not halls of residence)
 - **secondary school** (not high school or college, except in official school names)
@@ -536,7 +535,7 @@ Use as substitute for "or" with **no space** on either side
 
 ## 10. ABBREVIATIONS & ACRONYMS
 
-### General Rules
+### General rules
 - Spell out full name with acronym in brackets on first mention
 - Use acronym only in subsequent references
 - No need to spell out when abbreviation is more familiar than full form (BBC, FBI, DNA)
@@ -544,13 +543,13 @@ Use as substitute for "or" with **no space** on either side
 - Plurals: Use small 's' with no apostrophe (FAQs, PhDs)
 - Possessives: Follow usual rules (The BMS's Department)
 
-### Standard Abbreviations to Use
+### Standard abbreviations to use
 - **e.g.** (for example) - with full stops
 - **i.e.** (that is) - with full stops
 - **etc.** - with full stop
 - **CV** - no full stops
 - **Dr** - no full stop
-- **c.** (circa, means "about") - italicized, full stop, no space before numbers but space before words
+- **c.** (circa, means "about") - italicised, full stop, no space before numbers but space before words
 
 ### Initials
 **No full stops, space between multiple initials:**
@@ -578,14 +577,14 @@ Use **sparingly** to emphasize important text (dates, names, deadlines)
 
 **Avoid using quotation marks** for these items
 
-**Web exception:** If CMS doesn't permit italics, quotation marks acceptable (but never in event listing titles)
+**Web exception:** Do not use italics. If required, quotation marks acceptable (but never in event listing titles)
 
 ### Underlining
 **Avoid** - suggests hyperlinked content
 Use bold or italics instead for emphasis
 
 ### Bullet Points / Lists
-**General:** If no particular order, alphabetize
+**General:** If no particular order, alphabetise
 **Punctuation preceding list:** Colon (unless list follows heading directly)
 
 **List of items (no particular order):**
@@ -609,12 +608,12 @@ Use bold or italics instead for emphasis
 
 ## 12. WEB & EMAIL GUIDELINES
 
-### Web Addresses
+### Web addresses
 **Generally omit** http:// and www (check if critically necessary)
 **Include https:** for secure sites if needed
 **No full stop** at end of sentence with web address
 **No underlining** in print
-**Generally don't capitalize** within address (unless functions as brand name like Outlook.com)
+**Generally don't capitalise** within address (unless functions as brand name like Outlook.com)
 
 Examples:
 - ✅ otago.ac.nz
@@ -643,8 +642,8 @@ Examples:
 **Preferred for web:** International format (+64 3 479 1100)
 **Include prefixes** for mobile users
 
-### Email Addresses
-**Capitalize 'E' only when:**
+### Email addresses
+**Capitalise 'E' only when:**
 - First word in sentence
 - Used for contact details
 
@@ -684,7 +683,7 @@ New Zealand
 
 ## 14. ACADEMIC CONVENTIONS
 
-### Degrees and Diplomas
+### Degrees and diplomas
 Always name and abbreviate correctly with capitals/lower case as defined
 
 **bachelor's / master's degrees:**
@@ -717,12 +716,12 @@ Always name and abbreviate correctly with capitals/lower case as defined
 - **double major** = single degree with two majors
 
 ### Papers
-**Standard format:** Space between letters and numbers, italicize for clarity in large text blocks
+**Standard format:** Space between letters and numbers, italicise for clarity in large text blocks
 - ✅ CHEM 111 Molecular Architecture
 - ✅ CHEM 111
 - ❌ CHEM111
 
-### Level References
+### Level references
 **Use lower case and hyphen:**
 - a 100-level course
 - doing a paper at 100-level
@@ -730,12 +729,12 @@ Always name and abbreviate correctly with capitals/lower case as defined
 **Exception:** NCEA Level 3 (capital L and numeral)
 - ❌ Dr Bloggs needed a speaker for his 200 level course
 
-### Semester References
+### Semester references
 **No longer use:** "first semester" or "second semester"
 **Use:** semester 1, semester 2
 **Lower case 's'** except at sentence start
 
-### Latin Suffixes
+### Latin suffixes
 - alumnus/alumni (male graduate / plural men or mixed)
 - alumna/alumnae (female graduate / plural women)
 - emeritus/emeriti (retired male professor / plural)
@@ -755,7 +754,7 @@ Correct term for graduates or those who completed papers but didn't graduate/are
 
 ## 15. TITLES & HONORIFICS
 
-### Honorifics (Titles Before Names)
+### Honorifics (titles before names)
 **No full stops:** Dr, Mr, Mrs, Miss, Ms
 
 **First mention:** Full name with honorific
@@ -767,9 +766,9 @@ Examples:
 - Dr Joseph Bloggs assembled the paperwork … Joseph was known for being meticulous
 - Dr Joseph Bloggs assembled the paperwork … Dr Bloggs was known for being meticulous
 
-**Where no title:** Use Mr, Mrs, Ms, or Miss after first mention
+**Where no title:** Use Miss, Mr, Mrs, or Ms after first mention
 
-### Postnominals (After Names)
+### Postnominals (after names)
 **Order:**
 1. Official honours and appointments (ONZM JP)
 2. Degrees in ascending order (BA MSc(Otago) PhD(Auck))
@@ -787,16 +786,17 @@ Examples:
 ## 16. PRONOUNS & INCLUSIVE LANGUAGE
 
 ### Pronouns
-**Singular:** he or she accordingly
+**Singular:** use they as a singular unless the gender is specified
 **Plural:** they/their
 **Neutral singular:** they/their acceptable when individual doesn't identify as male/female and requests neutral pronoun
 
 Examples:
-- Singular: He sat the exam alongside 135 students
+- Singular: A student lost their laptop.
+- Singular if gender is known and specified: The Chancellor, Ms Trish Oakley, said she was thrilled to meet with alumni at a recent event. 
 - Plural: Derek and Sandra were departing. They hadn't packed yet.
 - Neutral: "Language is always changing," they say
 
-### Greetings (English & Te Reo Māori)
+### Greetings (English & te reo Māori)
 **Very formal:**
 - Dear Sir/Madam = Kei te rangatira, tēnā koe
 
@@ -867,7 +867,7 @@ Apple logo > System Preferences > Language & Region > Keyboard Preferences > + i
 ## 18. OTAGO-SPECIFIC TERMINOLOGY
 *These items are specific to University of Otago*
 
-### Official University Name & Translation
+### Official university name & translation
 **Legal name:** University of Otago
 **With article:** the University of Otago (if required for sense)
 **Subsequent mentions:** the University or Otago
@@ -875,7 +875,7 @@ Apple logo > System Preferences > Language & Region > Keyboard Preferences > + i
 **Māori name:** Ōtākou Whakaihu Waka
 - Metaphor meaning "a place of many firsts"
 - Less literal than previous name Te Whare Wānanga o Otāgo
-- Refers to education, research, student experiences, and being first NZ university
+- Refers to education, research, student experiences, and being the first NZ university
 
 **Writing both names:**
 - University of Otago – Ōtākou Whakaihu Waka, OR
@@ -906,7 +906,481 @@ Apple logo > System Preferences > Language & Region > Keyboard Preferences > + i
 **Campus convention:**
 - Dunedin campus (not "the Dunedin campus")
 
-### Divisions
+### Academic divisions
+**Full names (use these generally):**
+- Division of Commerce *(For external purposes: Otago Business School)*
+- Division of Health Sciences
+- Division of Humanities
+- Division of Sciences
 
-**Academic Divisions:**
-- Division of Commerce (External: Otago
+**Informal forms** (when repeated frequently in close proximity):
+- Health Sciences (Division)
+- Humanities (Division)
+
+### Service divisions
+- Academic Division
+- External Engagement Division
+- Human Resources Division
+- Operations Division
+- Research and Enterprise Division
+
+- ---
+
+## 19. OTAGO-SPECIFIC: FACULTIES
+
+**Current faculty names:**
+- Faculty of Biomedical Sciences
+- Faculty of Dentistry
+- Faculty of Health Professional Programmes
+- Faculty of Law
+- Faculty of Medicine
+
+### Faculty of Medicine structure
+Faculty of Medicine comprises **three regions/campuses:**
+- Faculty of Medicine – Dunedin (on the Dunedin campus)
+- Faculty of Medicine – Christchurch (on the University of Otago, Christchurch campus)
+- Faculty of Medicine – Wellington (on the University of Otago, Wellington campus)
+
+### Names no longer in use
+❌ **Do NOT use:**
+- Otago Medical School (now Faculty of Medicine)
+- School of Biomedical Sciences (now Faculty of Biomedical Sciences)
+- Christchurch School of Medicine
+- Wellington School of Medicine
+
+---
+
+## 20. OTAGO-SPECIFIC: SCHOOLS
+
+**Current school names:**
+- School of Arts
+- School of Geography
+- School of Performing Arts
+- School of Pharmacy
+- School of Physiotherapy
+- School of Physical Education, Sport and Exercise Science
+- School of Social Sciences
+- School of Surveying
+
+---
+
+## 21. OTAGO-SPECIFIC: MEDICAL SCHOOLS & CAMPUSES
+
+### Campus structure overview
+
+**Dunedin campus:**
+- Faculty of Medicine, Dunedin (FoM)
+  - 8 core departments + 1 region-specific department
+- Faculty of Health Professional Programmes (FHPP)
+- Faculty of Biomedical Sciences (BMS)
+- Faculty of Dentistry
+
+**University of Otago, Christchurch:**
+- Faculty of Medicine, Christchurch
+  - 8 core departments + 2 region-specific departments
+- Faculty of Health Professional Programmes (Department of Nursing)
+
+**University of Otago, Wellington:**
+- Faculty of Medicine, Wellington
+  - 8 core departments
+- Faculty of Health Professional Programmes (Department of Radiation Therapy)
+
+### Medical student pathway
+After completing Health Sciences First Year (HSFY) or alternative pathway:
+- All second- and third-year medical students taught on Dunedin campus (by BMS, FoM, FHPP staff)
+- After that, a third of students taught in each region (Dunedin/Christchurch/Wellington) for remaining years
+
+### Referring to core FoM departments on website
+**To specify region, use:**
+
+**For headings/links (name only or name at end):**
+- Department of Public Health, Dunedin
+- Example: "Our people in the Department of Public Health, Dunedin"
+- Example: "You can find supervisors in the Department of Public Health, Dunedin"
+
+**For sentences with clauses separated by commas, or name at start/middle:**
+- Department of Public Health (Dunedin)
+- Example: "As of September 1 2025, the Department of Preventive and Social Health was renamed the Department of Public Health (Dunedin)"
+
+**For group links on HS staff expertise database:**
+- Department of Public Health (Dunedin)
+
+**Note:** These forms are NOT the official name—they're for website clarity. Not essential to include region at all times (e.g., in postal addresses or where location mentioned in same page section).
+
+**Region-specific departments** (e.g., Department of Nursing) do NOT include region in the name on website.
+
+---
+
+## 22. OTAGO-SPECIFIC: DEPARTMENT REFERENCES
+
+### General department rules
+**Use formal title** in most instances:
+- Department of History (NOT History Department, though acceptable informally)
+- Never abbreviate to "dept."
+
+**Capitalise** when referring to specific department:
+- He worked in the Department of History for over 25 years
+
+**Lower case** when referring generally:
+- Are you interested in a career in social work?
+
+---
+
+## 23. OTAGO-SPECIFIC: ACADEMIC & RELATED TITLES
+
+### Associate professor
+- Only capitalise when used as someone's title
+- Lower case when referring to associate professors generally
+- ❌ NEVER use: Assoc Prof, Ass Prof
+
+Examples:
+- ✅ Associate Professor Jane Redmond was delighted
+- ✅ Associate Professor Jenkins says the findings were a surprise
+- ✅ Whether the professors realised it or not...
+- ❌ Assoc Prof Erickson was first to arrive
+
+### Professor
+- Use "professor of" (NOT "professor in")
+- Never shorten to "Prof"
+
+Examples:
+- ✅ Professor of Earthquake Science Mark Stirling
+- ✅ Joe Bloggs was everyone's favourite professor
+- ✅ The results were a surprise says Professor James Bond
+- ❌ When the boy grew up, he hoped to become a Professor
+
+### Deputy Vice-Chancellor
+**Single hyphen only:** Deputy Vice-Chancellor
+**Abbreviation:** DVC (informal, subsequent instances only)
+
+**Full titles:**
+- Deputy Vice-Chancellor (Academic)
+- Deputy Vice-Chancellor (External Engagement)
+- Deputy Vice-Chancellor (Research and Enterprise)
+
+Examples:
+- ✅ Deputy Vice-Chancellor (External Engagement) Professor Tony Ballantyne was delighted
+- ✅ Professor Richard Blaikie, Deputy Vice-Chancellor (Research and Enterprise), was positive
+- ❌ Deputy-Vice-Chancellor, Academic, Professor Helen Nicholson
+
+### Vice-chancellor
+**Always hyphenated** when written in full (first instance)
+**Abbreviation:** VC (capital letters, no full stops, subsequent instances)
+
+### Pro-vice-chancellor
+**Two hyphens** as shown
+**Abbreviation:** PVC (informal, subsequent instances only)
+
+### Head of department
+- Only capitalise when used as someone's title
+- Lower case when referring generally
+- **Abbreviation:** HOD (informal, subsequent instances only)
+
+### Co-Director / Director
+- Co-Director (capitalise when title)
+- co-directors (lower case when general)
+
+Examples:
+- ✅ The Director of Resources took his place at the table
+- ✅ The meeting began once the director and other board members were seated
+- ✅ John Raven was Co-Director of the Centre for World Bowling Expertise
+- ✅ He and his fellow co-directors met monthly
+- ❌ The Directors were first to be notified
+
+### Chair (professor's post)
+**"Chair in" (NOT "chair of")**
+Also: holds the chair in... / is the professor of...
+
+**Avoid:** "chair of committee"
+**Use instead:** convener (person presiding at meeting)
+
+Examples:
+- ✅ Professor Singer holds the Chair in Public Finance
+- ✅ Gerald Singer is a professor of Public Finance
+- ✅ The Chair of Public Finance is Professor Singer
+- ✅ Professor Singer is the Chair of Public Finance
+
+### Knights/Dames
+**Use academic title first** when referring to academics with knighthoods/damehoods
+**Subsequent references:** Non-academic title + first name
+
+Example:
+- Professor Sir John Snowell wrote the book … Sir John will be in town next month
+
+---
+
+## 24. OTAGO-SPECIFIC: OFFICES & SERVICES
+
+### Health Sciences Admissions
+Use: **Health Sciences Admissions**
+NOT: Health Sciences Admissions Office
+
+### Visitors' Centre and Gift Shop
+**Full name first instance:** Visitors' Centre and Gift Shop
+**Subsequent references:** Visitors' Centre OR Gift Shop
+**Note:** Possessive apostrophe in Visitors'
+
+Examples:
+- ✅ The tour group will meet at the Visitors' Centre
+- ✅ The University's Gift Shop has memorabilia
+- ❌ The visitor's centre was a welcome addition
+
+### Schools' Liaison Officer
+**Use apostrophe** as indicated
+**Capitalise** when referencing job title
+**Lower case** when referring generally
+
+Examples:
+- ✅ Schools' Liaison Officer Joseph Bloggs has had a busy month
+- ✅ We recommend you speak with a schools' liaison officer
+
+### IMU – Otago ambassadors
+**Note the dash** (longer than hyphen)
+**Capitalize** ambassador only when used as someone's title
+**Lower case** when referring to ambassadors generally
+
+---
+
+## 25. OTAGO-SPECIFIC: BUILDINGS & LOCATIONS
+
+### Clocktower Building
+**Use capitals as indicated**
+**Clocktower is one word** in this instance
+**Lower case and two words** for clock towers generally
+
+**Do NOT use:** Registry or Registry Building (no longer used)
+
+Examples:
+- ✅ The Financial Services Cashiers Office is in the basement of the Clocktower Building
+- ✅ Some stonework fell off that town's clock tower
+- ❌ I'll meet you at the Registry Building
+
+### Specific Lecture Theatres
+**St David Complex Lecture Theatre**
+- Use capitals as indicated
+- No apostrophe 's'
+
+**Hercus D'Ath Lecture Theatre**
+- Note capitalization of D'Ath
+- Preferable to use full name rather than just "D'Ath Lecture Theatre"
+
+### Botanic Garden
+**Referred to as:** the Botanic Garden
+**NOT:** botanical or Gardens (plural)
+
+Example:
+- ✅ The Marsh Study Centre is across from the Botanic Garden
+- ❌ The visitor's centre was near the botanical gardens
+
+### University Flats
+**Use capitals as indicated:** University Flats
+**Informal writing:** Uni Flats is acceptable
+
+### Residential colleges
+**Use:** residential colleges
+**NOT:** halls of residence
+
+Examples:
+- ✅ The majority of students lived in residential colleges during first year
+- ✅ After two weeks, the college was beginning to feel like home
+- ❌ The halls of residence were expected to be full
+- ✅ Rawiri headed back to the hall after class (informal)
+
+---
+
+## 26. OTAGO-SPECIFIC: PROGRAMMES & SYSTEMS
+
+### Health Sciences First Year (HSFY)
+**Full name first mention:** Health Sciences First Year (HSFY)
+**Subsequent mentions:** HSFY
+
+### Distance Learning / Distance-taught
+**Programme name:** Distance Learning (capitalise)
+**Adjective:** distance-taught (hyphenated, lower case)
+
+### Executive Education
+Capitalize as programme name
+
+### Blackboard
+**Capitalise** when referring to the online learning environment
+**Lower case** for physical blackboards or informal generic reference
+
+Examples:
+- ✅ The lecturer uploaded materials to Blackboard
+- ✅ With the power out, the lecturer resorted to writing on the blackboard
+- ❌ Students accessed lecture notes from home on blackboard
+
+### eVision
+**Lower case 'e', capital 'V'** - even at sentence start
+(Ideally don't start sentences with this word)
+
+Examples:
+- ✅ eVision training is available to all
+- ❌ EVision contains basic student information
+
+### eLearning
+**Lower case 'e', capital 'L'** - even at sentence start
+(Ideally don't start sentences with this word)
+
+Examples:
+- ✅ eLearning is the use of ICT to support learning
+- ❌ ELearning has revolutionised learning
+
+---
+
+## 27. OTAGO-SPECIFIC: PROGRAMMES & QUALIFICATIONS
+
+### Adviser/Advisory
+**Consistent spelling:** adviser, advisory
+**Capitalise** when referencing job title or marketing team
+**Lower case** when referring generally
+
+Examples:
+- ✅ Divisional Marketing Advisory are your main contact
+- ✅ Please contact a marketing adviser in the first instance
+
+### Certificate of Proficiency
+**Abbreviation:** COP
+
+### Recognition of Prior Learning
+**Abbreviation:** RPL
+
+---
+
+## 28. OTAGO-SPECIFIC: ORGANISATIONS & GROUPS
+
+### Students' Association
+**Full name (first instance):** Otago University Students' Association
+- Note the apostrophe
+**Abbreviation (subsequent):** OUSA (no full stops)
+
+### The Senate / The University Council
+**Capitalise** "the" when required for sense: the Senate, the University Council
+**Subsequent mentions:** May drop "the" or use lower case when referring generally
+
+---
+
+## 29. OTAGO-SPECIFIC: GRANTS & AWARDS
+
+### Marsden grant
+**Lower case 'g'**
+
+### Performance-based research fund
+**All capitals when written out**
+**Abbreviation:** PBRF
+
+### W.H. Oliver Prize
+**Include full stops** in initials to match official name
+
+---
+
+## 30. OTAGO-SPECIFIC: PUBLICATIONS & FILE FORMATS
+
+### EPUB
+**Upper case** when referring to EPUBs generally
+**Lower case** when used as filename extension
+
+Examples:
+- ✅ We will send you an EPUB file next week
+- ✅ The file is called important_stuff.epub
+- ❌ The file is called important_stuff.EPUB
+
+---
+
+## 31. OTAGO-SPECIFIC: ACRONYMS FREQUENTLY USED
+
+**Common Otago acronyms:**
+- Certificate of Proficiency (COP)
+- Information Technology Services (ITS)
+- National Student Index (NSI)
+- National Student Number (NSN)
+- Otago University Students' Association (OUSA) – note apostrophe
+- Recognition of Prior Learning (RPL)
+- Student Job Search (SJS)
+- Equivalent Full-Time Student (EFTS)
+- Health Sciences First Year (HSFY)
+
+---
+
+## 32. OTAGO-SPECIFIC: MĀORI TRANSLATIONS
+
+### Coordination & requests
+**The Office of Māori Development** coordinates all Māori language translation requests
+
+**Resources:**
+- Search approved translations on Māori ki Ōtākou website
+- Request new translation through official process
+
+### Generic term translations
+A comprehensive list of Māori translations for:
+- Academic divisions
+- Services division (Te Wāhanga mō ngā Ratonga)
+- Other generic terms
+
+**Available at:** Māori ki Ōtākou website
+
+---
+
+## 33. OTAGO-SPECIFIC: HISTORICAL REFERENCES
+
+### World Wars
+**Written out in full:** World War + space + Roman numeral
+- World War I
+- World War II
+
+**Abbreviation:** No space before Roman numeral
+- WWI
+- WWII
+
+**Font consideration:** Ensure font doesn't alter intended appearance
+
+---
+
+## 35. USAGE NOTES & CLARIFICATIONS
+
+### Terms that need context
+
+**programme vs program**
+- programme (non-computer) - British spelling
+- program (computer) - no -me ending
+
+**healthcare vs health care**
+- healthcare (adjective) - New Zealand's healthcare system
+- health care (noun) - The calibre of health care delivered
+
+**filmmaking vs film-making**
+- filmmaking (University course name) - Science and Natural History Filmmaking
+- film-making (general reference) - Film-making was her passion
+
+**cross credit**
+- No hyphen, two words
+- Do not confuse with corequisite (one word)
+
+**candidate vs student**
+- PhD candidate (preferred for doctoral students)
+- student (for other research degrees and all coursework degrees)
+- Both technically correct for PhD, but candidate preferred for consistency
+
+---
+
+## 36. SPECIAL FORMATTING CONSIDERATIONS
+
+### At Symbol @
+**Use symbol (@) only in:**
+- Email addresses
+- Social media
+
+**Use word "at"** in all other instances
+
+### Spacing
+**One space after:**
+- Full stop at end of sentence
+- Colon
+- Semi-colon
+
+### Circa (c.)
+- Means "about"
+- Written as **c.** (italicised)
+- **No space** before numbers: c.1600
+- **Use space** before letters or words: c. five years ago
+- Use full stop
