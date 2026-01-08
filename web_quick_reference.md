@@ -32,26 +32,26 @@ Users only read **18% of web content** - make every word count!
 ✅ Use informative headings
 ✅ Lists over long paragraphs
 
-### Only Include What's Needed
+### Only include what's needed
 Users scan - they don't read everything
 
 ---
 
 ## WRITING STYLE
 
-### Active Voice (Always)
+### Active voice (always)
 ✅ The student completed the form
 ❌ The form was completed by the student
 
-### Short Sentences
+### Short sentences
 Target: 15-20 words maximum
 
-### Omit Unnecessary Words
+### Omit unnecessary words
 ✅ "to" (not "in order to")
 ✅ "examine" (not "carry out an examination of")
 ✅ "ask" (not "make an enquiry")
 
-### Plain Language
+### Plain language
 Avoid jargon and colloquialisms
 - ❌ "pack your togs and jandals"
 - ✅ "bring swimwear and sandals"
@@ -60,14 +60,14 @@ Avoid jargon and colloquialisms
 
 ## HEADINGS
 
-### Always Use:
+### Always use:
 ✅ Sentence case (not Title Case or ALL CAPS)
 ✅ Front-load with verb
 ✅ Specific and meaningful
 ✅ Statements (not questions)
 ✅ Proper H1→H2→H3 hierarchy
 
-### Never Include:
+### Never include:
 ❌ Full stops
 ❌ Question format
 ❌ Vague language ("More information")
@@ -80,7 +80,7 @@ Avoid jargon and colloquialisms
 ✅ **Below** the text they refer to (not mid-sentence)
 ✅ Easier to tap on mobile
 
-### Link Text
+### Link text
 ✅ Descriptive (can stand alone)
 ✅ 2-4 words for buttons/CTAs
 ✅ Start with verb
@@ -96,7 +96,7 @@ Avoid jargon and colloquialisms
 
 ## FORMATTING
 
-### Sentence Case for Everything
+### Sentence case for everything
 - Headings
 - Titles
 - Subheadings
@@ -107,16 +107,16 @@ Avoid jargon and colloquialisms
 ❌ **Avoid** (rare exception: critical safety/legal info only)
 
 ### Italics
-❌ **Minimize** - only for publications (books, films, journals)
+❌ **Minimise** - only for publications (books, films, journals)
 ❌ **NOT for Latin phrases** (use plain text: in vivo, in vitro)
 
 ### Underline
 ❌ **NEVER** - reserved for hyperlinks only
 
-### Exclamation Marks
+### Exclamation marks
 ❌ **Do not use**
 
-### Full Stops
+### Full stops
 ❌ **Not in:**
 - Headings/subheadings
 - Link text
@@ -128,12 +128,12 @@ Avoid jargon and colloquialisms
 
 ## ACRONYMS
 
-### First Mention Rule
+### First mention rule
 Always spell out first, then use acronym:
 ✅ Health Sciences First Year (HSFY)
 ✅ The HSFY programme begins...
 
-### Or Replace Entirely
+### Or replace entirely
 ✅ "right away" (not ASAP)
 
 ---
@@ -155,15 +155,15 @@ Always spell out first, then use acronym:
 
 ## OTAGO-SPECIFIC
 
-### Official Names
+### Official names
 ✅ University of Otago (never "Otago University")
 ✅ Department of Anatomy (never "Anatomy Department")
 
-### Academic Titles
+### Academic titles
 ✅ Associate Professor Jane Smith
 ❌ Assoc Prof Jane Smith
 
-### Never Abbreviate:
+### Never abbreviate:
 - Professor → Prof ❌
 - Associate Professor → Assoc Prof ❌
 - Department → dept. ❌
@@ -172,7 +172,7 @@ Always spell out first, then use acronym:
 
 ## USER BEHAVIOR
 
-### F-Pattern Scanning
+### F-Pattern scanning
 Users focus on:
 - Top left of page
 - Headings
@@ -180,7 +180,7 @@ Users focus on:
 
 **Front-load everything important!**
 
-### The 3-Part Test
+### The 3-Part test
 Content is only clear if users can:
 1. **Find** what they need
 2. **Understand** what they find
@@ -190,16 +190,16 @@ Content is only clear if users can:
 
 ## HTML & ACCESSIBILITY
 
-### Function Over Form
+### Function over form
 ❌ Don't use formatting because it "looks cool"
 ✅ Use correct HTML elements for their purpose
 
-### Headings Hierarchy
+### Headings hierarchy
 ✅ H1 → H2 → H3 (in order)
 ❌ Don't skip levels
 ❌ Don't use to make text bigger
 
-### Screen Reader Considerations
+### Screen reader considerations
 - Meaningful link text
 - Proper heading structure
 - Quote boxes for actual quotes (not decoration)
@@ -213,7 +213,7 @@ Content is only clear if users can:
 | **Length** | 50% of print | Standard |
 | **Numbers** | Use numerals | Spell out 1-9 |
 | **Bold** | Avoid | Sparingly OK |
-| **Latin phrases** | Plain text | Italicize |
+| **Latin phrases** | Plain text | Italicise |
 | **Exclamation marks** | Never | Not specified |
 | **Sentence length** | 15-20 words | Not specified |
 
@@ -237,7 +237,7 @@ Quick checks:
 
 ## ESSENTIAL TOOLS
 
-**Readability Checkers:**
+**Readability checkers:**
 - Hemingway Editor
 - Readability Calculator (Online-Utility.org)
 - Readability Test Tool
@@ -248,11 +248,3 @@ Quick checks:
 - WCAG 2.1 (accessibility)
 
 ---
-
-## QUICK PROMPTS FOR AI TOOLS
-
-"Write web content following University of Otago style: 50% print length, active voice, 15-20 word sentences, Grade 7-8 reading level, sentence case headings, no bold/italics/exclamation marks, links below text, plain text for Latin phrases."
-
----
-
-**Questions?** Refer to full Web Best Practice Guide for detailed guidance.
