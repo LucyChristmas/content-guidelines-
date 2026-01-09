@@ -1242,6 +1242,14 @@ Examples:
 ### Certificate of Proficiency
 **Abbreviation:** COP
 
+### Hands On
+**Capitalise** both words 
+**Use a hyphen** when it is an adjective
+Examples:
+- Hands On
+- Hands-On at Otago
+- Hands-On week
+
 ### Recognition of Prior Learning
 **Abbreviation:** RPL
 
