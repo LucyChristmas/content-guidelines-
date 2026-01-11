@@ -170,7 +170,7 @@ Always spell out first, then use acronym:
 
 ---
 
-## USER BEHAVIOR
+## USER BEHAVIOUR
 
 ### F-Pattern scanning
 Users focus on:
