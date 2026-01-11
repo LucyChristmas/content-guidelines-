@@ -1,4 +1,4 @@
-# Quick Reference: Web Writing Essentials
+# Quick reference: web writing essentials
 ## University of Otago
 
 ---
