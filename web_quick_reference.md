@@ -217,34 +217,5 @@ Content is only clear if users can:
 | **Exclamation marks** | Never | Not specified |
 | **Sentence length** | 15-20 words | Not specified |
 
----
-
-## BEFORE YOU PUBLISH
-
-Quick checks:
-- □ Content is 50% of print equivalent?
-- □ Sentences under 20 words?
-- □ Active voice used?
-- □ Headings in sentence case?
-- □ Links placed below text?
-- □ No bold/italics/underline/exclamation marks?
-- □ Acronyms spelled out first use?
-- □ Reading level Grade 7-8?
-- □ Official Otago names correct?
-- □ Proper heading hierarchy (H1→H2→H3)?
-
----
-
-## ESSENTIAL TOOLS
-
-**Readability checkers:**
-- Hemingway Editor
-- Readability Calculator (Online-Utility.org)
-- Readability Test Tool
-
-**Reference:**
-- digital.govt.nz (grammar, punctuation, plain language)
-- Design London Readability Guidelines (links)
-- WCAG 2.1 (accessibility)
 
 ---
