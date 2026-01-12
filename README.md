@@ -42,7 +42,7 @@ These guides are designed for:
 - **Editors and reviewers** ensuring content meets University standards
 - **Communications teams** managing University messaging
 - **Academic staff** writing web content or public-facing materials
-- **Anyone using AI tools** (Copilot, Claude, ChatGPT, etc.) to generate University content
+- **Anyone using AI tools** (Copilot, Claude, ChatGPT, etc.) to review or generate University content
 
 ---
 
@@ -190,7 +190,7 @@ For web content specifically:
 ## Contributing
 
 ### Found an error or inconsistency?
-Please [contact the content team] or [open an issue/submit feedback].
+Please contact the Web Experience team or [open an issue/submit feedback].
 
 ### Suggesting updates?
 These guides are living documents. If you notice:
