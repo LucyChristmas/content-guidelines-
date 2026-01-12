@@ -204,18 +204,3 @@ Content is only clear if users can:
 - Proper heading structure
 - Quote boxes for actual quotes (not decoration)
 
----
-
-## WEB vs PRINT DIFFERENCES
-
-| Element | Web | Print |
-|---------|-----|-------|
-| **Length** | 50% of print | Standard |
-| **Numbers** | Use numerals | Spell out 1-9 |
-| **Bold** | Avoid | Sparingly OK |
-| **Latin phrases** | Plain text | Italicise |
-| **Exclamation marks** | Never | Not specified |
-| **Sentence length** | 15-20 words | Not specified |
-
-
----
