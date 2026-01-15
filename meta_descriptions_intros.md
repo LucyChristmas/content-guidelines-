@@ -204,6 +204,8 @@ Notice how they cover similar ground but serve different purposes:
 ✅ **Do:** "Explore scholarships for undergraduate students. Find funding options, eligibility, and deadlines."
 
 **Why:** "The University of Otago" uses 24+ characters. Google often adds your organisation name automatically, and users already see "otago.ac.nz" in the URL. Use those characters for compelling content instead.
+
+### Mistake 5: Forgetting keywords
 ❌ **Don't:** Miss the opportunity to include relevant search terms
 
 ✅ **Do:** Include terms people actually search for (naturally, not stuffed)
